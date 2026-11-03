@@ -2,7 +2,7 @@
 
 A Signal HUD–style developer portfolio built with React 19, Vite and Tailwind CSS 4, featuring a live 3D three.js centerpiece, GSAP scroll animations and a working contact form.
 
-**Live site:** https://YOUR-SITE-URL/
+**Live site:** https://my-portfolio-phi-brown-77.vercel.app
 
 ---
 
